@@ -64,4 +64,5 @@ Cache::config('default', array('engine' => 'File'));
  *
  */
 
-CakePlugin::loadAll();
+CakePlugin::load('DebugKit');
+CakePlugin::load('Brownie', array('bootstrap' => true, 'routes' => true));
