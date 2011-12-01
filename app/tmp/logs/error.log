@@ -4,3 +4,29 @@
 2011-12-01 15:49:04 Error: [MissingControllerException] Controller class AsdadfsController could not be found.
 #0 D:\_portal\setup2\public_html\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2011-12-01 16:06:15 Error: [MissingPluginException] Plugin DebugKit could not be found.
+#0 D:\_portal\setup2\lib\2.0.4\Cake\Core\App.php(332): CakePlugin::path('DebugKit')
+#1 D:\_portal\setup2\lib\2.0.4\Cake\Core\App.php(217): App::pluginPath('DebugKit')
+#2 D:\_portal\setup2\lib\2.0.4\Cake\Core\App.php(510): App::path('Controller/Comp...', 'DebugKit')
+#3 [internal function]: App::load('ToolbarComponen...')
+#4 [internal function]: spl_autoload_call('ToolbarComponen...')
+#5 D:\_portal\setup2\lib\2.0.4\Cake\Controller\ComponentCollection.php(92): class_exists('ToolbarComponen...')
+#6 D:\_portal\setup2\lib\2.0.4\Cake\Controller\ComponentCollection.php(45): ComponentCollection->load('DebugKit.Toolba...', Array)
+#7 D:\_portal\setup2\lib\2.0.4\Cake\Controller\Controller.php(585): ComponentCollection->init(Object(PagesController))
+#8 D:\_portal\setup2\lib\2.0.4\Cake\Routing\Dispatcher.php(103): Controller->constructClasses()
+#9 D:\_portal\setup2\lib\2.0.4\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#10 D:\_portal\setup2\public_html\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2011-12-01 16:06:59 Error: [MissingPluginException] Plugin DebugKit could not be found.
+#0 D:\_portal\setup2\lib\2.0.4\Cake\Core\App.php(332): CakePlugin::path('DebugKit')
+#1 D:\_portal\setup2\lib\2.0.4\Cake\Core\App.php(217): App::pluginPath('DebugKit')
+#2 D:\_portal\setup2\lib\2.0.4\Cake\Core\App.php(510): App::path('Controller/Comp...', 'DebugKit')
+#3 [internal function]: App::load('ToolbarComponen...')
+#4 [internal function]: spl_autoload_call('ToolbarComponen...')
+#5 D:\_portal\setup2\lib\2.0.4\Cake\Controller\ComponentCollection.php(92): class_exists('ToolbarComponen...')
+#6 D:\_portal\setup2\lib\2.0.4\Cake\Controller\ComponentCollection.php(45): ComponentCollection->load('DebugKit.Toolba...', Array)
+#7 D:\_portal\setup2\lib\2.0.4\Cake\Controller\Controller.php(585): ComponentCollection->init(Object(PagesController))
+#8 D:\_portal\setup2\lib\2.0.4\Cake\Routing\Dispatcher.php(103): Controller->constructClasses()
+#9 D:\_portal\setup2\lib\2.0.4\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#10 D:\_portal\setup2\public_html\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
