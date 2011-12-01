@@ -1,0 +1,3 @@
+2011-12-01 15:27:50 Error: [MissingControllerException] Controller class PublicHtmlController could not be found.
+#0 D:\_portal\setup2\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
