@@ -4,13 +4,11 @@ class AppController extends Controller {
 
  	public $components= array(
 		'Session',
-		//'Brownie.Panel',
+		//'Brownie.BrwPanel',
 		'DebugKit.Toolbar',
 	);
 
 	public $helpers = array('Html', 'Form', 'Session');
-
-	public $companyName = 'Company name';
 
 	//public $brwMenu = array();
 

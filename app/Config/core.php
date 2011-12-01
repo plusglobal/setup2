@@ -362,4 +362,5 @@ Configure::write('Routing.prefixes', array('brw'));
 Configure::write('brwSettings', array(
 	'dateFormat' => 'd.m.Y',
 	'datetimeFormat' => 'd.m.Y H:i',
+	'companyName' => 'Company name (cambiar en Config/core.php)',
 ));
