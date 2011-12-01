@@ -1,4 +1,18 @@
 <?php
+if (substr(env('HTTP_HOST'), -5) == '.test') {
+	Configure::write('isTesting', true);
+} else {
+	Configure::write('isTesting', false);
+}
+
+$isLocal = (
+	env('REMOTE_ADDR') == '127.0.0.1'
+	or substr(env('HTTP_HOST'), -4) == '.dev'
+	or class_exists('ShellDispatcher')
+	or Configure::read('isTesting')
+);
+Configure::write('isLocal', $isLocal);
+
 /**
  * This is core configuration file.
  *
@@ -32,7 +46,11 @@
  * In production mode, flash messages redirect after a time interval.
  * In development mode, you need to click the flash message to continue.
  */
-	Configure::write('debug', 2);
+	if ($isLocal) {
+		Configure::write('debug', 2);
+	} else {
+		Configure::write('debug', 1);
+	}
 
 /**
  * Configure the Error handler used to handle errors for your application.  By default
@@ -225,7 +243,7 @@
 	Configure::write('Acl.database', 'default');
 
 /**
- * Uncomment this line and correct your server timezone to fix 
+ * Uncomment this line and correct your server timezone to fix
  * any date & time related errors.
  */
 	//date_default_timezone_set('UTC');
@@ -329,4 +347,19 @@ Cache::config('_cake_model_', array(
 	'path' => CACHE . 'models' . DS,
 	'serialize' => ($engine === 'File'),
 	'duration' => $duration
+));
+
+
+/**
+ * Own configuration
+ */
+
+Configure::write('Config.language', 'es');
+//Configure::write('Config.languages', array('es', 'en));
+
+Configure::write('Routing.prefixes', array('brw'));
+
+Configure::write('brwSettings', array(
+	'dateFormat' => 'd.m.Y',
+	'datetimeFormat' => 'd.m.Y H:i',
 ));

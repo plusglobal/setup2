@@ -63,21 +63,43 @@ class DATABASE_CONFIG {
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'user',
-		'password' => 'password',
+		'login' => 'root',
+		'password' => '',
 		'database' => 'database_name',
 		'prefix' => '',
-		//'encoding' => 'utf8',
+		'encoding' => 'utf8',
 	);
 
 	public $test = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'user',
-		'password' => 'password',
+		'login' => 'root',
+		'password' => '',
 		'database' => 'test_database_name',
 		'prefix' => '',
-		//'encoding' => 'utf8',
+		'encoding' => 'utf8',
 	);
+
+	public $server = array(
+		'datasource' => 'Database/Mysql',
+		'persistent' => false,
+		'host' => 'localhost',
+		'login' => 'root',
+		'password' => '',
+		'database' => 'test_database_name',
+		'prefix' => '',
+		'encoding' => 'utf8',
+	);
+
+
+	function __construct() {
+		if (Configure::read('isTesting')) {
+			$this->default = $this->fixtures;
+		}
+		if (!Configure::read('isLocal')) {
+			$this->default = $this->server;
+		}
+	}
+
 }
