@@ -24,6 +24,7 @@
 	if (!defined('DS')) {
 		define('DS', DIRECTORY_SEPARATOR);
 	}
+
 /**
  * These defines should only be edited if you have cake installed in
  * a directory layout other than the way it is distributed.
@@ -35,14 +36,15 @@
  *
  */
 	if (!defined('ROOT')) {
-		define('ROOT', dirname(dirname(__FILE__)));
+		define('ROOT', dirname(dirname(dirname(__FILE__))));
 	}
+
 /**
  * The actual directory name for the "app".
  *
  */
 	if (!defined('APP_DIR')) {
-		define('APP_DIR', 'app');
+		define('APP_DIR', basename(dirname(dirname(__FILE__))));
 	}
 
 /**
@@ -56,7 +58,7 @@
  *
  * Leaving this constant undefined will result in it being defined in Cake/bootstrap.php
  */
-	define('CAKE_CORE_INCLUDE_PATH', ROOT . DS . 'lib' . DS . '2.0.5');
+	//define('CAKE_CORE_INCLUDE_PATH', __CAKE_PATH__);
 
 /**
  * Editing below this line should NOT be necessary.
