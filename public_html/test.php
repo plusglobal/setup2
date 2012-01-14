@@ -18,6 +18,7 @@
  */
 set_time_limit(0);
 ini_set('display_errors', 1);
+$_GET['debug'] = 1; //para que se muestre el debug en los casos de testing
 /**
  * Use the DS to separate the directories in other defines
  */
@@ -53,7 +54,7 @@ ini_set('display_errors', 1);
  *
  * Leaving this constant undefined will result in it being defined in Cake/bootstrap.php
  */
-	define('CAKE_CORE_INCLUDE_PATH', ROOT . DS . 'lib' . DS . '2.0.4');
+	define('CAKE_CORE_INCLUDE_PATH', ROOT . DS . 'lib' . DS . '2.0.5');
 
 /**
  * Editing below this line should not be necessary.
