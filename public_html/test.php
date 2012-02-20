@@ -54,7 +54,7 @@ $_GET['debug'] = 1; //para que se muestre el debug en los casos de testing
  *
  * Leaving this constant undefined will result in it being defined in Cake/bootstrap.php
  */
-	define('CAKE_CORE_INCLUDE_PATH', ROOT . DS . 'lib' . DS . '2.0.5');
+	define('CAKE_CORE_INCLUDE_PATH', ROOT . DS . 'lib' . DS . '2.0.6');
 
 /**
  * Editing below this line should not be necessary.
