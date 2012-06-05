@@ -30,3 +30,188 @@
 #9 D:\_portal\setup2\lib\2.0.4\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
 #10 D:\_portal\setup2\public_html\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #11 {main}
+2012-06-05 21:25:22 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:25:44 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:26:20 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:27:11 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:28:01 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:28:09 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:28:15 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:29:24 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:29:32 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:30:33 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:30:34 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:30:34 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:30:34 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:30:34 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:30:53 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:30:53 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:30:53 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:30:53 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:31:01 Error: [MissingPluginException] Plugin Brownie could not be found.
+#0 D:\_portal\setup2\app\Config\bootstrap.php(68): CakePlugin::load('Brownie', Array)
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Core\Configure.php(88): include('D:\_portal\setu...')
+#2 D:\_portal\setup2\lib\2.1.3\Cake\bootstrap.php(142): Configure::bootstrap(true)
+#3 D:\_portal\setup2\public_html\index.php(81): include('D:\_portal\setu...')
+#4 {main}
+2012-06-05 21:33:45 Error: [MissingControllerException] Controller class PagesController could not be found.
+#0 D:\_portal\setup2\public_html\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 21:35:29 Error: [MissingConnectionException] Database connection "SQLSTATE[42000] [1049] Unknown database 'database_name'" is missing, or could not be created.
+#0 D:\_portal\setup2\lib\2.1.3\Cake\Model\Datasource\DboSource.php(245): Mysql->connect()
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 D:\_portal\setup2\lib\2.1.3\Cake\Model\Model.php(3417): ConnectionManager::getDataSource('default')
+#3 D:\_portal\setup2\lib\2.1.3\Cake\Model\Model.php(1083): Model->setDataSource('default')
+#4 D:\_portal\setup2\lib\2.1.3\Cake\Model\Model.php(3443): Model->setSource('brw_users')
+#5 D:\_portal\setup2\lib\2.1.3\Cake\Model\Model.php(1292): Model->getDataSource()
+#6 D:\_portal\setup2\app\Plugin\Brownie\Model\Behavior\BrwPanelBehavior.php(236): Model->schema('sort')
+#7 D:\_portal\setup2\app\Plugin\Brownie\Model\Behavior\BrwPanelBehavior.php(216): BrwPanelBehavior->_sortableConfig(Object(AppModel))
+#8 D:\_portal\setup2\app\Plugin\Brownie\Model\Behavior\BrwPanelBehavior.php(87): BrwPanelBehavior->brwConfigInit(Object(AppModel))
+#9 D:\_portal\setup2\lib\2.1.3\Cake\Model\BehaviorCollection.php(148): BrwPanelBehavior->setup(Object(AppModel), Array)
+#10 D:\_portal\setup2\lib\2.1.3\Cake\Model\BehaviorCollection.php(68): BehaviorCollection->load('Brownie.BrwPane...', Array)
+#11 D:\_portal\setup2\lib\2.1.3\Cake\Model\Model.php(725): BehaviorCollection->init('BrwUser', Array)
+#12 D:\_portal\setup2\lib\2.1.3\Cake\Utility\ClassRegistry.php(174): Model->__construct(Array)
+#13 D:\_portal\setup2\app\Plugin\Brownie\Controller\Component\BrwPanelComponent.php(17): ClassRegistry::init('BrwUser')
+#14 [internal function]: BrwPanelComponent->initialize(Object(PagesController))
+#15 D:\_portal\setup2\lib\2.1.3\Cake\Utility\ObjectCollection.php(130): call_user_func_array(Array, Array)
+#16 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#17 D:\_portal\setup2\lib\2.1.3\Cake\Event\CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#18 D:\_portal\setup2\lib\2.1.3\Cake\Controller\Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#19 D:\_portal\setup2\lib\2.1.3\Cake\Routing\Dispatcher.php(100): Controller->startupProcess()
+#20 D:\_portal\setup2\lib\2.1.3\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#21 D:\_portal\setup2\public_html\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#22 {main}
+2012-06-05 21:36:37 Error: [MissingConnectionException] Database connection "SQLSTATE[42000] [1049] Unknown database 'database_name'" is missing, or could not be created.
+#0 D:\_portal\setup2\lib\2.1.3\Cake\Model\Datasource\DboSource.php(245): Mysql->connect()
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 D:\_portal\setup2\lib\2.1.3\Cake\Model\Model.php(3417): ConnectionManager::getDataSource('default')
+#3 D:\_portal\setup2\lib\2.1.3\Cake\Model\Model.php(1083): Model->setDataSource('default')
+#4 D:\_portal\setup2\lib\2.1.3\Cake\Model\Model.php(3443): Model->setSource('brw_users')
+#5 D:\_portal\setup2\lib\2.1.3\Cake\Model\Model.php(1292): Model->getDataSource()
+#6 D:\_portal\setup2\app\Plugin\Brownie\Model\Behavior\BrwPanelBehavior.php(236): Model->schema('sort')
+#7 D:\_portal\setup2\app\Plugin\Brownie\Model\Behavior\BrwPanelBehavior.php(216): BrwPanelBehavior->_sortableConfig(Object(AppModel))
+#8 D:\_portal\setup2\app\Plugin\Brownie\Model\Behavior\BrwPanelBehavior.php(87): BrwPanelBehavior->brwConfigInit(Object(AppModel))
+#9 D:\_portal\setup2\lib\2.1.3\Cake\Model\BehaviorCollection.php(148): BrwPanelBehavior->setup(Object(AppModel), Array)
+#10 D:\_portal\setup2\lib\2.1.3\Cake\Model\BehaviorCollection.php(68): BehaviorCollection->load('Brownie.BrwPane...', Array)
+#11 D:\_portal\setup2\lib\2.1.3\Cake\Model\Model.php(725): BehaviorCollection->init('BrwUser', Array)
+#12 D:\_portal\setup2\lib\2.1.3\Cake\Utility\ClassRegistry.php(174): Model->__construct(Array)
+#13 D:\_portal\setup2\app\Plugin\Brownie\Controller\Component\BrwPanelComponent.php(17): ClassRegistry::init('BrwUser')
+#14 [internal function]: BrwPanelComponent->initialize(Object(PagesController))
+#15 D:\_portal\setup2\lib\2.1.3\Cake\Utility\ObjectCollection.php(130): call_user_func_array(Array, Array)
+#16 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#17 D:\_portal\setup2\lib\2.1.3\Cake\Event\CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#18 D:\_portal\setup2\lib\2.1.3\Cake\Controller\Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#19 D:\_portal\setup2\lib\2.1.3\Cake\Routing\Dispatcher.php(100): Controller->startupProcess()
+#20 D:\_portal\setup2\lib\2.1.3\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#21 D:\_portal\setup2\public_html\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#22 {main}
+2012-06-05 21:38:58 Error: [MissingTableException] Table brw_users for model BrwUser was not found in datasource default.
+#0 D:\_portal\setup2\lib\2.1.3\Cake\Model\Model.php(3443): Model->setSource('brw_users')
+#1 D:\_portal\setup2\lib\2.1.3\Cake\Model\Model.php(1292): Model->getDataSource()
+#2 D:\_portal\setup2\app\Plugin\Brownie\Model\Behavior\BrwPanelBehavior.php(236): Model->schema('sort')
+#3 D:\_portal\setup2\app\Plugin\Brownie\Model\Behavior\BrwPanelBehavior.php(216): BrwPanelBehavior->_sortableConfig(Object(AppModel))
+#4 D:\_portal\setup2\app\Plugin\Brownie\Model\Behavior\BrwPanelBehavior.php(87): BrwPanelBehavior->brwConfigInit(Object(AppModel))
+#5 D:\_portal\setup2\lib\2.1.3\Cake\Model\BehaviorCollection.php(148): BrwPanelBehavior->setup(Object(AppModel), Array)
+#6 D:\_portal\setup2\lib\2.1.3\Cake\Model\BehaviorCollection.php(68): BehaviorCollection->load('Brownie.BrwPane...', Array)
+#7 D:\_portal\setup2\lib\2.1.3\Cake\Model\Model.php(725): BehaviorCollection->init('BrwUser', Array)
+#8 D:\_portal\setup2\lib\2.1.3\Cake\Utility\ClassRegistry.php(174): Model->__construct(Array)
+#9 D:\_portal\setup2\app\Plugin\Brownie\Controller\Component\BrwPanelComponent.php(17): ClassRegistry::init('BrwUser')
+#10 [internal function]: BrwPanelComponent->initialize(Object(PagesController))
+#11 D:\_portal\setup2\lib\2.1.3\Cake\Utility\ObjectCollection.php(130): call_user_func_array(Array, Array)
+#12 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#13 D:\_portal\setup2\lib\2.1.3\Cake\Event\CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#14 D:\_portal\setup2\lib\2.1.3\Cake\Controller\Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#15 D:\_portal\setup2\lib\2.1.3\Cake\Routing\Dispatcher.php(100): Controller->startupProcess()
+#16 D:\_portal\setup2\lib\2.1.3\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#17 D:\_portal\setup2\public_html\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#18 {main}

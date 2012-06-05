@@ -1,10 +1,12 @@
 <?php
 
+App::uses('Controller', 'Controller');
+
 class AppController extends Controller {
 
  	public $components= array(
 		'Session',
-		//'Brownie.BrwPanel',
+		'Brownie.BrwPanel',
 		'DebugKit.Toolbar',
 	);
 
