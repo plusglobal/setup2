@@ -202,12 +202,12 @@ Configure::write('isLocal', $isLocal);
 /**
  * A random string used in security hashing methods.
  */
-	Configure::write('Security.salt', 'DYhG93b0qyJfIxfs2guVoUubWwvniR2G0FgaC9mi');
+	Configure::write('Security.salt', 'DYhG93b0q234yJfI2fs2gu3453VoUubW234wvniR2G0FgaC9mi');
 
 /**
  * A random numeric string (digits only) used to encrypt/decrypt strings.
  */
-	Configure::write('Security.cipherSeed', '76859309657453542496749683645');
+	Configure::write('Security.cipherSeed', '76859309623445345323542442342383645');
 
 /**
  * Apply timestamps with the last modified time to static assets (js, css, images).

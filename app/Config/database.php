@@ -65,7 +65,7 @@ class DATABASE_CONFIG {
 		'host' => 'localhost',
 		'login' => 'root',
 		'password' => '',
-		'database' => 'setup2',
+		'database' => 'nemo',
 		'prefix' => '',
 		'encoding' => 'utf8',
 	);
